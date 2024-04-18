@@ -1,6 +1,7 @@
 # FirstRepositry
 ## Meine Hobbies:
 - Zocken
-- Lesen
+- Bücher kaufen
+-Programmieren 
 
 Essen ist wichtig :)
