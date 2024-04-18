@@ -2,6 +2,6 @@
 ## Meine Hobbies:
 - Zocken
 - Bücher kaufen
--Programmieren 
+- Programmieren 
 
 Essen ist wichtig :)
