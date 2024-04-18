@@ -2,6 +2,14 @@
 ## Meine Hobbies:
 - Zocken
 - Bücher kaufen
-- Programmieren 
-
+- **Programmieren**
+- > ReadMe datei erstellen 
+```
+Existieren
+Erstellen
+```
+$$
+4+6  
+$$
+`Wichtig!!`
 Essen ist wichtig :)
